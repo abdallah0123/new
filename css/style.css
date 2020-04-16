@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: 'Lato', sans-serif;
+}
+
+body{
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+h1{
+    font-size: 3rem;
+    font-weight: 300;
+    margin: 5rem 0 1rem;
+    color: #777;
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 2.5rem;
+    color: #555;
+
+}
+
+h3{
+font-size: 1.8rem;
+margin-bottom: 1.5rem;
+color: #555;
+
+}
+
+p{
+    font-size: 1.5rem;
+    color: #b3b3b3;
+}
+
+.text-box{
+    width: 28%;
+    margin: 0 auto 5rem;
+}
+
+.tools{
+    position: relative;
+    margin-top: 3rem;
+}
+
+.tool{
+    display: inline-block;
+    position: absolute;
+    padding: 2rem;
+    text-align: left;
+    background-color: #fff;
+    border-radius: 5px;
+    width: 20%;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.tool p{
+margin-bottom: 1rem;
+}
+
+.team{
+   left: 61rem;
+   border-top: 3px solid #fb0030;
+
+}
+
+.calcu{
+    top: 11rem;
+    right: 28rem;
+    border-top: 3px solid #335cc4
+}
+
+.super{
+    top: 11rem;
+    left: 28rem;
+    border-top: 3px solid #1ac1da;
+
+}
+
+.karma{
+    top: 24rem;
+    left: 61rem;
+    border-top: 3px solid #ffd825   ;
+
+}
+
+.photo{
+    float: right;
+    margin-top: 2rem;
+}
